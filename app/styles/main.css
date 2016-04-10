@@ -1,0 +1,39 @@
+/* line 4, ../../app/styles/product.scss */
+.product-section {
+  margin-bottom: 6em;
+}
+
+/* line 8, ../../app/styles/product.scss */
+.collapsible-body p {
+  padding-bottom: 0em;
+  padding-top: 0em;
+}
+
+/* line 1, ../../app/styles/validation.scss */
+.css-form input.ng-invalid.ng-touched {
+  background-color: #FA787E;
+}
+
+/* line 5, ../../app/styles/validation.scss */
+.css-form input.ng-valid.ng-touched {
+  background-color: #78FA89;
+}
+/* line 4, ../../app/styles/product.scss */
+.product-section {
+  margin-bottom: 6em;
+}
+
+/* line 8, ../../app/styles/product.scss */
+.collapsible-body p {
+  padding-bottom: 0em;
+  padding-top: 0em;
+}
+/* line 1, ../../app/styles/validation.scss */
+.css-form input.ng-invalid.ng-touched {
+  background-color: #FA787E;
+}
+
+/* line 5, ../../app/styles/validation.scss */
+.css-form input.ng-valid.ng-touched {
+  background-color: #78FA89;
+}
